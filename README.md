@@ -3,8 +3,8 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
+> Desenvolvedor de jogos e aplicativos[Sobre-mim](https://linktr.ee/ronildo.facanha)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
