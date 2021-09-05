@@ -2,10 +2,7 @@
 
 
 <h1 align="center">
-<br>
 <img align="center" src="https://i.ibb.co/DCcDptB/perfil.png" width="120px"/>
-<br>
-<br>
 </h1>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
@@ -17,7 +14,7 @@
 
 <div>
  <p>
-Sou desenvolvedor de jogos e aplicativos de nível médio, capaz de construir pequenos projetos - desde o conceito, layout e programação. Habilidade em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento de jogos e aplicativos. aprendizagem rápido, trabalho em equipe, proficiente em uma variedade de linguagens e ferramentas multimídia.
+Sou desenvolvedor de jogos e aplicativos móveis de nível médio, capaz de construir pequenos projetos - desde o conceito, layout e programação. Habilidade em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento de jogos e aplicativos. aprendizagem rápido, trabalho em equipe, proficiente em uma variedade de linguagens e ferramentas multimídia.
 
 Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos de jogos e aplicativos móveis.
 </p>
