@@ -1,5 +1,5 @@
 <p align="center">
-<h2>BEM VINDO!</h2>
+<h2 lign="center">BEM VINDO!</h2>
 <img src="https://i.ibb.co/DCcDptB/perfil.png" width="100px" align="center"/>
 </p>
 
