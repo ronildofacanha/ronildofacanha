@@ -2,7 +2,9 @@
 
 
 <h1 align="center">
+<p>
 <img align="center" src="https://i.ibb.co/DCcDptB/perfil.png" width="120px"/>
+ </p>
 </h1>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
