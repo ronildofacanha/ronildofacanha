@@ -7,7 +7,7 @@
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
 
 
-<img src="https://i.ibb.co/0fR3FPJ/Simple-Line.png" alt="ronildo.facanha" />
+<img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="ronildo.facanha" />
 
 <div>
  <p>
