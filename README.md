@@ -1,7 +1,7 @@
 <p align="center">
 <h2 align="center">BEM VINDO!</h2>
-<img width="100px" src="https://i.ibb.co/DCcDptB/perfil.png" alt="Github Readme Stats" />
-</p align="center">
+<img aligb="center" width="100px" src="https://i.ibb.co/DCcDptB/perfil.png" alt="Github Readme Stats" />
+</p>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
