@@ -35,7 +35,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildo.facanha&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildo.facanha&repo=OsmoseGameUnity3D-readme-stats)](https://github.com/ronildofacanha/OsmoseGameUnity3D.git)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
