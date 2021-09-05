@@ -7,7 +7,7 @@
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://e7.pngegg.com/pngimages/437/482/png-clipart-angle-divider-religion-line.png" alt="ronildo.facanha" />
 
 <div>
  <p>
