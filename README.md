@@ -1,6 +1,6 @@
 <p align="center">
 <h2 align="center">BEM VINDO!</h2>
-<img src="https://i.ibb.co/DCcDptB/perfil.png" width="100px" align="center"/>
+<img src="https://i.ibb.co/DCcDptB/perfil.png" width="100px" align="middle"/>
 </p>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
