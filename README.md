@@ -1,6 +1,6 @@
 <p align="center">
 <h2 align="center">BEM VINDO!</h2>
-<img aligb="center" width="100px" src="https://i.ibb.co/DCcDptB/perfil.png" alt="Github Readme Stats" />
+<img src="https://i.ibb.co/DCcDptB/perfil.png" width="100px" align="left">/>
 </p>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
