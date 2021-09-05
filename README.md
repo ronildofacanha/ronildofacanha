@@ -1,7 +1,5 @@
-<p align="center">
 <h2 align="center"> BEM VINDO!</h2>
 <img align="center" src="https://i.ibb.co/DCcDptB/perfil.png" width="100px"/>
-</p>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
