@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <br>
-<img src= "https://i.ibb.co/YWJhjVf/celula-gf.gif" alt="Osmose Game" width: 100%;>
+<img src= "https://i.ibb.co/YWJhjVf/celula-gf.gif" alt="Osmose Game" width: 50%;>
 <br>
 <br>
 </h1>
