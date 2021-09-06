@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <br>
-<img align="center" src="https://i.ibb.co/BBvSZBW/perfil-2.png" alt="Perfil" width="600" height="1280">
+<img align="center" src="https://ibb.co/41zTQwG" alt="Perfil">
 <br>
 <br>
 </h1>
