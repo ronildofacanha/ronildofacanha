@@ -4,7 +4,7 @@
 <h1 align="center">
 <br>
 <img align="center" src="https://i.ibb.co/8rfWyVB/gf.gif">
- <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="ronildo.facanha" />
+ <img src="https://i.ibb.co/8rfWyVB/gf.gif" alt="ronildo.facanha" />
 <br>
 <br>
 </h1>
