@@ -4,7 +4,7 @@
 <h1 align="center">
 <br>
 <img src= "https://i.ibb.co/YWJhjVf/celula-gf.gif" alt="Osmose Game" width="120">
-<img src= "https://i.ibb.co/SV62PXj/perfilgf.gif" alt="Osmose Game" width="120">
+<img src= "https://i.ibb.co/SV62PXj/perfilgf.gif" alt="Osmose Game" style="width:500px;height:600px;">
 <br>
 <br>
 </h1>
