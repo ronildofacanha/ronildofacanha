@@ -1,7 +1,3 @@
-.green{
-  fill: green;
-}
-
 <h2 align="center"> BEM VINDO!</h2>
 
 <h2 align="center">
