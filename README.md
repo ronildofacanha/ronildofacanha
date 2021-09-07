@@ -9,7 +9,6 @@
 <img align="top" src="https://i.ibb.co/16r7vpM/perfil.gif" width="20%">
 </div>
                                                    
-
 <img src=https://i.ibb.co/92xVqwy/r.gif" alt="line" />
 </h2>
 
