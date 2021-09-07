@@ -4,7 +4,8 @@
 <img src=https://i.ibb.co/dgDJL5g/l.gif" alt="line" />
                                                    
 <div class="column">
-<img src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%">
+<img align="top" src="https://i.ibb.co/16r7vpM/perfil.gif" width="20%">
+<img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%">
 <img align="top" src="https://i.ibb.co/16r7vpM/perfil.gif" width="20%">
 </div>
                                                    
