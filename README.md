@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <br>
-<img src="https://github.com/ronildofacanha/OsmoseGameUnity3D/tree/main/OsmoseGame/Assets/Images/Bg_Madeira.jpg" width="48">
+<img src="https://github.com/ronildofacanha/OsmoseGameUnity3D/tree/main/OsmoseGame/Assets/Images/Item_Celula.jpg" width="48">
 <br>
 <br>
 </h1>
