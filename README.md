@@ -2,7 +2,7 @@
 
 <h2 align="center"                  
 <div class="column">
-<img align="top" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="20%"/>
+<img align="top" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%"/>
 <img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%"/>
 <img align="top" src="https://i.ibb.co/16r7vpM/perfil.gif" width="20%"/>
 </div>         
