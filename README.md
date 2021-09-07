@@ -8,10 +8,10 @@
 
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
 
-<img align="center" src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
+<img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" align="center"> />
 
 <div>
- <p>
+<p>
 Sou desenvolvedor de jogos e aplicativos móveis de nível médio, capaz de construir pequenos projetos - desde o conceito, layout e programação. Habilidade em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento de jogos e aplicativos. aprendizagem rápido, trabalho em equipe, proficiente em uma variedade de linguagens e ferramentas multimídia.
 
 Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos de jogos e aplicativos móveis.
