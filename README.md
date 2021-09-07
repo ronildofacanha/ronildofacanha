@@ -2,11 +2,11 @@
 
 <h2 align="center"                  
 <div class="column">
-<img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%" alt="anel"/>
-<img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%"/>
-<img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%"/>
+<img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%" alt="coin"/>
+<img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%" alt="sonic"/>
+<img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%" alt="perfil"/>
 <img align="center" src="https://thumbs.gfycat.com/DisgustingPlumpAiredale-size_restricted.gif" width="10%" alt="mario"/>
-<img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%"/>
+<img align="top" src="https://i.gifer.com/origin/71/719ea2f44c791fc07e0e811940a0232b_w200.gif" width="5%" alt="coin"/>
 </div>         
 <img src="https://i.ibb.co/92xVqwy/r.gif" alt="line"/>
 </h2>
