@@ -2,7 +2,7 @@
 
 <h2 align="center">
 <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
-<img src="https://i.ibb.co/dcVB1gQ/perfil.gif" width="25%">
+<img src="https://i.ibb.co/16r7vpM/perfil.gif" width="25%">
 <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
 </h2>
 
