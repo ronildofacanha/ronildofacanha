@@ -3,7 +3,7 @@
 <h2 align="center">
 <img src=https://i.ibb.co/hcbdRTJ/Simple-Line.gif" alt="line" />
 <img src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%">
-<img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
+<img src=https://i.ibb.co/hcbdRTJ/Simple-Line.gif" alt="line" />
 </h2>
 
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
