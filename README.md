@@ -1,6 +1,7 @@
 <h2 align="center"> BEM VINDO!
 <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
 <img src="https://i.ibb.co/D5n5hnK/perfil.png" width="25%">
+ <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
 </h2>
 
 
