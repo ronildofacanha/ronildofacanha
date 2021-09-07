@@ -5,7 +5,7 @@
 <img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%" alt="anel"/>
 <img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%"/>
 <img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%"/>
-<img align="center" src="https://thumbs.gfycat.com/DisgustingPlumpAiredale-size_restricted.gif" width="5%" alt="mario"/>
+<img align="center" src="https://thumbs.gfycat.com/DisgustingPlumpAiredale-size_restricted.gif" width="10%" alt="mario"/>
 <img align="top" src="https://media0.giphy.com/media/iulUAFJ8GcHGE/200.gif" width="5%"/>
 </div>         
 <img src="https://i.ibb.co/92xVqwy/r.gif" alt="line"/>
