@@ -6,7 +6,7 @@
 <img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%" alt="sonic"/>
 <img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%" alt="perfil"/>
 <img align="center" src="https://thumbs.gfycat.com/DisgustingPlumpAiredale-size_restricted.gif" width="10%" alt="mario"/>
-<img align="top" src="https://i.gifer.com/origin/71/719ea2f44c791fc07e0e811940a0232b_w200.gif" width="5%" alt="coin"/>
+<img align="top" src="https://66.media.tumblr.com/ba496aaf17f286484fe7b55db89f2fcc/tumblr_moddiwaowU1rfjowdo1_500.gif" width="5%" alt="coin"/>
 </div>         
 <img src="https://i.ibb.co/92xVqwy/r.gif" alt="line"/>
 </h2>
