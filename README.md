@@ -4,9 +4,6 @@
  <img src="https://i.ibb.co/mh9p6QB/Simple-Line.png" alt="line" />
 </h2>
 
-
-
-
 ### [Ronildo Facanha](https://linktr.ee/ronildo.facanha)
 
 > Desenvolvedor de jogos e aplicativos[ Sobre-mim ](https://linktr.ee/ronildo.facanha)
