@@ -24,7 +24,6 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 </div>
 
 ### program
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact)](https://github.com/ronildofacanha/github-readme-stats)
 
 
 ### Programming Languages 🌐
@@ -40,6 +39,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 ### Github Stats
 
 ![Ronildo Facanha GitHub stats](https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact)](https://github.com/ronildofacanha/github-readme-stats)
 
 
 
