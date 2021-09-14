@@ -56,13 +56,14 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ⭐️ From [@ronildo.facanha](https://linktr.ee/ronildo.facanha)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right" alt="Computador iuriCode">
+
 
 <p align="left">
   💌 Aqui você pode entrar em contato comigo: ⤵️
 </p>
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right" alt="Computador iuriCode">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
