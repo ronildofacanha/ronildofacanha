@@ -25,11 +25,13 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ### Github Stats
 
-![Ronildo Facanha GitHub stats](https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical) |
+![Ronildo Facanha GitHub stats](https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical)
+
 
 Exemplo   | Valor do exemplo
 --------- | ------
-Exemplo 1 | R$ 10
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">] | R$ 10
 Exemplo 2 | R$ 8
 Exemplo 3 | R$ 7
 Exemplo 4 | R$ 8
