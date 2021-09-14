@@ -27,7 +27,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <h2 align="center"                  
 <div class="column">
 <img align="" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical" width="40%" alt="stats"/>
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical" width="35%" alt="stats"/>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical" width="38%" alt="stats"/>
 </div>
 </h2>
 
