@@ -31,13 +31,11 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 
 ## 🚀 Skills
-
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="c#"/></code>
 ---
 
 ## 🚀 Tools
-
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
 ---
 
