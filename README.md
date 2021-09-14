@@ -56,7 +56,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ⭐️ From [@ronildo.facanha](https://linktr.ee/ronildo.facanha)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="50%" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right" alt="Computador iuriCode">
 
 <p align="left">
   💌 Aqui você pode entrar em contato comigo: ⤵️
