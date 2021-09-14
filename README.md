@@ -56,8 +56,8 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ⭐️ From [@ronildo.facanha](https://linktr.ee/ronildo.facanha)
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right" alt="Computador iuriCode">
-<img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" width="35%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+
 ```kotlin
 object **SEU NOME** {
  val name = "SEU NOME COMPLETO"
