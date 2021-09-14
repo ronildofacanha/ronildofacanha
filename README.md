@@ -56,20 +56,14 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ⭐️ From [@ronildo.facanha](https://linktr.ee/ronildo.facanha)
 
-```js
-import Desenvolvedor from 'SeuNick';
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
-}
-
-class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
 }
 ```
 
