@@ -60,10 +60,10 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 <p align="left">
   💌 Aqui você pode entrar em contato comigo: ⤵️
-</p>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right" alt="Computador iuriCode">
+</p>
 
-<p align="center">
+<p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
