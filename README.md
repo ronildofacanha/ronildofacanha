@@ -26,18 +26,13 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 ### Github Stats
 
 | |
-| :--: |
+| :---: |
 | ![GitHub stats ](https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical) |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical) |
 
 
-## t
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+
 
 ### 🚀 Skills
 
