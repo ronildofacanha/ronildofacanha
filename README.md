@@ -24,11 +24,8 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 </div>
 
 ### Github Stats
-<div class="column">
 ![Ronildo Facanha GitHub stats](https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical)
-</div>
-
 
 ### 🚀 Skills
 
