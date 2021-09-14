@@ -59,13 +59,12 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <img align="right" width="35%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Ronildo Façanha** {
+ val name = "Ronildo Façanha da Cunha Júnior"
+ val acknowledgements = "Ciência da Computação"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
+ val primarySkillset = "Desenvolvedor de jogos e aplicativos"
+ val languages = listOf("Java", "C#", "JavaScript", "Android", ".NET")
 }
 ```
 
