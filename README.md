@@ -40,11 +40,10 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JAVASC"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="C#"/></code>
-<code><img height="32" src="" alt="NOME"/></code>
-<code><img height="32" src="" alt="NOME"/></code>
-<code><img height="32" src="" alt="NOME"/></code>
-<code><img height="32" src="" alt="NOME"/></code>
-<code><img height="32" src="" alt="NOME"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="c++"/></code>
+<code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NODEJS"/></code>
+<code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
+<code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
 
 
 
