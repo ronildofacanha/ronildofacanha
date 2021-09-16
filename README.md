@@ -31,8 +31,6 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 </div>
 </h2>
 
-
-
 ### 🧸 🎮  🎧  🎲  🎨  🤸‍♂️  ⚽️ ☁️ 🔥 ⭐️ Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
@@ -44,8 +42,6 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NODEJS"/></code>
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
-
-
 
 ---
 
