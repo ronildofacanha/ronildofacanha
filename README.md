@@ -84,7 +84,7 @@ object **Ronildo** {
   💌 Aqui você pode entrar em contato comigo: ⤵️
 </p>
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https">](http://google.com.au/)
 
 <p align="left">
   <a href="#" alt="Gmail">
