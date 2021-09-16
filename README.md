@@ -75,7 +75,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <img align="right" width="35%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
 ```kotlin
-object **Ronildo Façanha** {
+object **Ronildo** {
  val name = "Ronildo Façanha da Cunha Júnior"
  val acknowledgements = "Ciência da Computação"
  
