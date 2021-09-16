@@ -56,8 +56,8 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <code><img height="32" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/illustrator.png" alt="illustrator"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="CODE"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="VS"/></code>
-<code><img height="32" src="" alt="NAME"/></code>
-<code><img height="32" src="" alt="NAME"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="PS"/></code>
+<code><img height="32" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Belnder"/></code>
 <code><img height="32" src="" alt="NAME"/></code>
 <code><img height="32" src="" alt="NAME"/></code>
 
