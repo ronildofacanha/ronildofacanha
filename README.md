@@ -59,7 +59,9 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="PS"/></code>
 <code><img height="32" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Belnder"/></code>
 <code><img height="32" src="https://icons-for-free.com/iconfiles/png/512/after+effects+after+effects+logo+design+icon-1320084615162889386.png" alt="AF"/></code>
-<code><img height="32" src="" alt="NAME"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GIt"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
+
 
 
 ---
