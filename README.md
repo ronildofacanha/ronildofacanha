@@ -52,8 +52,8 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 ### 🚀 Tools
 <code><img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" alt="NAME"/></code>
-<code><img height="32" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/illustrator.png" alt="NAME"/></code>
+<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY"/></code>
+<code><img height="32" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/illustrator.png" alt="illustrator"/></code>
 <code><img height="32" src="" alt="NAME"/></code>
 <code><img height="32" src="" alt="NAME"/></code>
 
