@@ -31,7 +31,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 </div>
 </h2>
 
-### 🧸 🎮  🎧  🎲  🎨  🤸‍♂️  ⚽️ ☁️ 🔥 ⭐️ Skills
+### ⭐️ Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA"/></code>
@@ -45,7 +45,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 
 ---
 
-### 🚀 ☕ ✍ 💻 🖥️ 📱 ⚙️ ⏰  💡  🛠  Tools
+### 🛠  Tools
 <code><img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY"/></code>
