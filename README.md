@@ -17,9 +17,7 @@
 
 <div>
 <p>
-Sou desenvolvedor de jogos e aplicativos móveis de nível médio, capaz de construir pequenos projetos - desde o conceito, layout e programação. Habilidade em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento de jogos e aplicativos. aprendizagem rápido, trabalho em equipe, proficiente em uma variedade de linguagens e ferramentas multimídia.
-
-Tenho excelentes habilidades de design e codificação, bem como a capacidade de converter requisitos de jogos e aplicativos móveis.
+O crescimento profissional é um dos meus objetivos dentro da empresa. De-senvolvo softwares, jogos e aplicativos móveis, de nível médio, capaz de construir pequenos projetos desde o escopo inicial, layout e programação. Ha-bilidades em escrever códigos bem estruturados, testáveis e eficientes usando as melhores práticas atuais do mercado de desenvolvimento. Aprendizagem rápi-da, trabalho em equipe, proficiente em variedades de linguagens e ferramentas de desenvolvimento e multimídia. Tenho excelentes habilidades em design e programação bem como a capacidade de exercendo a função a mim destinado.
 </p>
 </div>
 
