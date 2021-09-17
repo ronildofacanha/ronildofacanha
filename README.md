@@ -31,7 +31,7 @@ Tenho excelentes habilidades de design e codificação, bem como a capacidade de
 </div>
 </h2>
 
-###⭐️ Skills
+### ⭐️ Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA"/></code>
