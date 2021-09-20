@@ -76,7 +76,6 @@ object **Ronildo** {
  val languages = listOf("Java", "C#", "JavaScript", "Android", ".NET")
 }
 ```
-
 <p align="left">
   💌 Aqui você pode entrar em contato comigo: ⤵️
 </p>
@@ -88,5 +87,4 @@ object **Ronildo** {
 [<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https">](https://linktr.ee/ronildo.facanha)
  
  ## Snake
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
