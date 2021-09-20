@@ -24,8 +24,8 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ### Github Stats
 <h2 align="center"                  
 <div class="column">
-<img align="0" height="100%"  width="40%" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical" alt="stats"/>
-<img align="0" height="100%"  width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical" alt="stats"/>
+<img align="0" height="100%" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=radical" alt="stats"/>
+<img align="0" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&hide=javascript,css,scss,html&theme=radical" alt="stats"/>
 </div>
 </h2>
 
