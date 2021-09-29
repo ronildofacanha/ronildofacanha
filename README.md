@@ -33,7 +33,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 ### ⭐️ Skills
 
-<code><img height="10% * screen.height" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="0.2% * screen.height" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JAVA"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="JAVASC"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET"/></code>
