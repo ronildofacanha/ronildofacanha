@@ -41,6 +41,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NODEJS"/></code>
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="PYTHON"/></code>
 
 ---
 
@@ -55,7 +56,8 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Belnder"/></code>
 <code><img height="32" src="https://icons-for-free.com/iconfiles/png/512/after+effects+after+effects+logo+design+icon-1320084615162889386.png" alt="AF"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
-
+<code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
+  
 ---
 
 
