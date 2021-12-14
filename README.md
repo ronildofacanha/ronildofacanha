@@ -64,8 +64,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ### Github Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGameUnity3D)](https://github.com/ronildofacanha/OsmoseGameUnity3D.git)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=zindex)](https://github.com/ronildofacanha/yolo4_python.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=zindex)](https://github.com/ronildofacanha/yolo4_python.git)  
 
 <h3> 🤝🏻 Connect with Me </h3>
 
