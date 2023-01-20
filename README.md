@@ -58,7 +58,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
-<code><img height="32" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Sites_icon_%282020%29.svg/1200px-Google_Sites_icon_%282020%29.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png)" alt="GOOGLE SITES"/></code>
+<code><img height="32" src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png" alt="GOOGLE SITES"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress"/></code>
   
 ---
