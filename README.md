@@ -60,7 +60,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
   
 
-<code><img height="32" src="[https://cdn-icons-png.flaticon.com/512/174/174881.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Google_Sites_2020_Logo.svg/1200px-Google_Sites_2020_Logo.svg.png)" alt="Google Sites"/></code>
+<code><img height="32" src="https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png" alt="Google Sites"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress"/></code>
   
 ---
