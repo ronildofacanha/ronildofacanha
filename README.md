@@ -58,6 +58,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="FL Studio"/></code>
   
 
 <code><img height="32" src="https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png" alt="Google Sites"/></code>
