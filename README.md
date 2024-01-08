@@ -5,7 +5,9 @@
   
 <img align="top" src="https://64.media.tumblr.com/c4a7585a275e31b88de29eddfe643c2e/f104104913a28b51-44/s250x400/215be1dfebb056f2f79a870c4138710f556b1de1.gifv" width="5%" alt="coin Sonic"/>
   
-<img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%" alt="sonic"/>
+<img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/sonic_run.gif" width="10%" alt="sonic"/>
+
+
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/ronildo_facanha.png" width="50%" alt="perfil"/>
 <img align="center" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" width="10%" alt="mario"/>
 <img align="top" src="https://66.media.tumblr.com/ba496aaf17f286484fe7b55db89f2fcc/tumblr_moddiwaowU1rfjowdo1_500.gif" width="4%" alt="coin"/>
