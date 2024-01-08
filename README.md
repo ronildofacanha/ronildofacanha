@@ -4,16 +4,10 @@
 <div class="column">
   
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/sonic_coin.webp" width="5%" alt="coin Sonic"/>
-  
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/sonic-gif-webp.webp" width="10%" alt="sonic"/>
-
-
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/ronildo_facanha.png" width="50%" alt="perfil"/>
-
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/maio-gif-webp.webp" width="10%" alt="mario"/>
-
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
-
 </div>
 <img src="https://github.com/ronildofacanha/Arquivos/blob/main/pacman-gif-webp.webp" width="100%" alt="Pacman"  margin: 35px 70px  alt="PACMAN" />
 </h2>
@@ -32,11 +26,8 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 ### 🚀 Git Stats
 <div align="center">
   <a href="https://github.com/ronildofacanha">
-    
-  <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 
 ### ⭐️ Skills
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
@@ -75,15 +66,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 ### Repositories
 <div align="center">
-  <a href="https://github.com/ronildofacanha/AdvancedCarSystem.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem" alt="AdvancedCarSystem">
-  </a>
-  <a href="https://github.com/ronildofacanha/OsmoseGame.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame" alt="OsmoseGame">
-  </a>
-  <a href="https://github.com/ronildofacanha/yolo4_python.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python">
-  </a>
+  <a href="https://github.com/ronildofacanha/AdvancedCarSystem.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem" alt="AdvancedCarSystem"></a> 
+  <a href="https://github.com/ronildofacanha/OsmoseGame.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame" alt="OsmoseGame"></a>
+  <a href="https://github.com/ronildofacanha/yolo4_python.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python"></a>
 </div>
 
 <h3> 🤝🏻 Connect with Me </h3>
