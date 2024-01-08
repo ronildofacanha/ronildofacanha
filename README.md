@@ -59,10 +59,10 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="FL Studio"/></code>
-  
 
 <code><img height="32" src="https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png" alt="Google Sites"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress"/></code>
+<code><img height="32" src="https://assets-global.website-files.com/5e6aa3e3f001fae105b8e1e7/6439cc0da352cc6eb6db7cab_ff_logo_small.png" alt="FlutterFlow"/></code>
   
 ---
 
