@@ -10,7 +10,8 @@
 
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/ronildo_facanha.png" width="50%" alt="perfil"/>
 <img align="center" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" width="10%" alt="mario"/>
-<img align="top" src="https://66.media.tumblr.com/ba496aaf17f286484fe7b55db89f2fcc/tumblr_moddiwaowU1rfjowdo1_500.gif" width="4%" alt="coin"/>
+
+<img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
 
 </div>
 <img src="https://i.ibb.co/Qn4QNK6/gif.gif" width="100%" alt="Pacman"  margin: 35px 70px />
