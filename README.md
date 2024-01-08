@@ -3,7 +3,7 @@
 <h2 align="center"                  
 <div class="column">
   
-<img align="top" src="https://64.media.tumblr.com/c4a7585a275e31b88de29eddfe643c2e/f104104913a28b51-44/s250x400/215be1dfebb056f2f79a870c4138710f556b1de1.gifv" width="5%" alt="coin Sonic"/>
+<img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/sonic_coin.webp" width="5%" alt="coin Sonic"/>
   
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/sonic_run.gif" width="10%" alt="sonic"/>
 
