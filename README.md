@@ -65,16 +65,11 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 ### 👻 Repositories
 
-<div align="center">
-
-  <a href="https://github.com/ronildofacanha/AdvancedCarSystem.git"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem" alt="AdvancedCarSystem"></a> 
-  
-  <a href="https://github.com/ronildofacanha/OsmoseGame.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame" alt="OsmoseGame"></a>
-  
-  <a href="https://github.com/ronildofacanha/yolo4_python.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python"></a>
-  
-  <a href="https://github.com/ronildofacanha/Arquivos.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=Arquivos" alt="Arquivos"></a>
-    
+<div align="center" style="margin: 20px;">
+  <a href="https://github.com/ronildofacanha/AdvancedCarSystem.git" style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem" alt="AdvancedCarSystem"></a>
+  <a href="https://github.com/ronildofacanha/OsmoseGame.git" style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame" alt="OsmoseGame"></a>
+  <a href="https://github.com/ronildofacanha/yolo4_python.git" style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python"></a>
+  <a href="https://github.com/ronildofacanha/Arquivos.git" style="margin: 10px;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=Arquivos" alt="Arquivos"></a>
 </div>
 
 <h3> 📱 Connect with Me </h3>
