@@ -73,7 +73,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
   
   <a href="https://github.com/ronildofacanha/yolo4_python.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python"></a>
   
-  <a href="https://github.com/ronildofacanha/Arquivos.gi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=Arquivos" alt="Arquivos"></a>
+  <a href="https://github.com/ronildofacanha/Arquivos.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=Arquivos" alt="Arquivos"></a>
     
 </div>
 
