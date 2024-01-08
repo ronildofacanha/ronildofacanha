@@ -78,11 +78,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
   <a href="https://github.com/ronildofacanha/AdvancedCarSystem.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem" alt="AdvancedCarSystem">
   </a>
-
   <a href="https://github.com/ronildofacanha/OsmoseGame.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame" alt="OsmoseGame">
   </a>
-
   <a href="https://github.com/ronildofacanha/yolo4_python.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python">
   </a>
