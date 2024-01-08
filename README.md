@@ -9,8 +9,7 @@
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/maio-gif-webp.webp" width="10%" alt="mario"/>
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
 </div>
-<img src="https://github.com/ronildofacanha/Arquivos/blob/main/pacman-gif-webp.webp" width="100%" alt="Pacman"  margin: 35px 70px  alt="PACMAN" />
-</h2>
+<img align="center" src="https://i.ibb.co/C5vpHKZ/pacman-gif-webp.webp" width="100%" alt="Pacman"/>
 
 ### [Ronildo Facanha](https://www.ronildofacanha.com.br/)
 
