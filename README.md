@@ -9,7 +9,8 @@
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/maio-gif-webp.webp" width="10%" alt="mario"/>
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
 </div>
-<img align="center" src="https://i.ibb.co/C5vpHKZ/pacman-gif-webp.webp" width="100%" alt="Pacman"/>
+
+<img align="center" src="https://i.ibb.co/zPH5hNw/pacman-optiwebp.webp" width="100%" alt="Pacman"/>
 
 ### [Ronildo Facanha](https://www.ronildofacanha.com.br/)
 
@@ -21,14 +22,12 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 </p>
 </div>
 
-
 ### 🚀 Git Stats
 <div align="center">
     <a href="https://github.com/ronildofacanha" style="min-width: 100%;">
         <img style="min-width: 240px; max-width:350px; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&theme=transparent" /></a>
   <img style="min-width: 240px; max-width:350px; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact&theme=transparent" />
 </div>
-
   
 ### ⭐️ Skills
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
