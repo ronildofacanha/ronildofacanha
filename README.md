@@ -23,10 +23,9 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 
 ### 🚀 Git Stats
-<div align="center">
-  <a href="https://github.com/ronildofacanha">
+<div align="center"><a href="https://github.com/ronildofacanha">
   <img height="180em" width = "42%" src="https://github-readme-stats.vercel.app/api?username=ronildofacanha&theme=transparent"/><img height="180em" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronildofacanha&layout=compact&theme=transparent"/>
-  </div>
+</div>
     
 ### ⭐️ Skills
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
