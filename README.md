@@ -53,8 +53,8 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/600px-Visual_Studio_Code_1.35_icon.svg.png" alt="CODE"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="VS"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="PS"/></code>
-<code><img height="32" src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="Belnder"/></code>
-<code><img height="32" src="https://icons-for-free.com/iconfiles/png/512/after+effects+after+effects+logo+design+icon-1320084615162889386.png" alt="AF"/></code>
+<code><img height="32" src="https://download.blender.org/branding/blender_logo.png" alt="Blender"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="AF"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="GITdesk"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
