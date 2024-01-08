@@ -68,6 +68,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 
 
 ### Github Repos
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem)](https://github.com/ronildofacanha/AdvancedCarSystem.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python)](https://github.com/ronildofacanha/yolo4_python.git)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame)](https://github.com/ronildofacanha/OsmoseGame.git)  
   
