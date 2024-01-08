@@ -10,7 +10,7 @@
 
 <img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/ronildo_facanha.png" width="50%" alt="perfil"/>
 
-<img align="center" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" width="10%" alt="mario"/>
+<img align="center" src="https://github.com/ronildofacanha/Arquivos/blob/main/maio-gif-webp.webp" width="10%" alt="mario"/>
 
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
 
