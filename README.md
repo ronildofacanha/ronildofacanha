@@ -71,7 +71,7 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
   <a href="https://github.com/ronildofacanha/yolo4_python.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python" alt="yolo4_python"></a>
 </div>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 📱 Connect with Me </h3>
 
 ⭐️ From [@ronildo.facanha](https://www.ronildofacanha.com.br/)
 
