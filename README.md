@@ -67,16 +67,16 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
   
 ---
 
+### Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem)](https://github.com/ronildofacanha/AdvancedCarSystem.git)
 
-### Github Repos
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=AdvancedCarSystem)](https://github.com/ronildofacanha/AdvancedCarSystem.git)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python)](https://github.com/ronildofacanha/yolo4_python.git)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame)](https://github.com/ronildofacanha/OsmoseGame.git)  
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=OsmoseGame)](https://github.com/ronildofacanha/OsmoseGame.git)  
+    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronildofacanha&repo=yolo4_python)](https://github.com/ronildofacanha/yolo4_python.git)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@ronildo.facanha](https://www.flowcode.com/page/ronildo)
+⭐️ From [@ronildo.facanha](https://www.ronildofacanha.com.br/)
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
@@ -93,11 +93,15 @@ object **Ronildo** {
   💌 Aqui você pode entrar em contato comigo: ⤵️
 </p>
 
-[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https">](https://www.flowcode.com/page/ronildo)
-[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https">](https://www.flowcode.com/page/ronildo)
-[<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https">](https://www.flowcode.com/page/ronildo)
-[<img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https">](https://www.flowcode.com/page/ronildo)
-[<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https">](https://www.flowcode.com/page/ronildo)
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https">](https://www.ronildofacanha.com.br/contatos)
+
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https">](https://www.ronildofacanha.com.br/contatos)
+
+[<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https">](https://www.ronildofacanha.com.br/contatos)
+
+[<img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https">](https://www.ronildofacanha.com.br/contatos)
+
+[<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https">](https://www.ronildofacanha.com.br/contatos)
  
  ## Snake
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
