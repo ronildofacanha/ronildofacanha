@@ -15,7 +15,7 @@
 <img align="top" src="https://github.com/ronildofacanha/Arquivos/blob/main/mario_coin-gif-webp.webp" width="4%" alt="Mario coin"/>
 
 </div>
-<img src="https://i.ibb.co/Qn4QNK6/gif.gif" width="100%" alt="Pacman"  margin: 35px 70px />
+<img src="https://github.com/ronildofacanha/Arquivos/blob/main/pacman-gif-webp.webp" width="100%" alt="Pacman"  margin: 35px 70px  alt="PACMAN" />
 </h2>
 
 ### [Ronildo Facanha](https://www.ronildofacanha.com.br/)
