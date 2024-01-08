@@ -1,13 +1,15 @@
-<h2 align="center">BEM VINDO!</h2>
+<h1 align="center">BEM VINDO!</h1>
 
 <h2 align="center"                  
 <div class="column">
+  
 <img align="top" src="https://64.media.tumblr.com/c4a7585a275e31b88de29eddfe643c2e/f104104913a28b51-44/s250x400/215be1dfebb056f2f79a870c4138710f556b1de1.gifv" width="5%" alt="coin Sonic"/>
   
 <img align="center" src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="10%" alt="sonic"/>
 <img align="center" src="https://i.ibb.co/16r7vpM/perfil.gif" width="50%" alt="perfil"/>
 <img align="center" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" width="10%" alt="mario"/>
 <img align="top" src="https://66.media.tumblr.com/ba496aaf17f286484fe7b55db89f2fcc/tumblr_moddiwaowU1rfjowdo1_500.gif" width="4%" alt="coin"/>
+
 </div>
 <img src="https://i.ibb.co/Qn4QNK6/gif.gif" width="100%" alt="Pacman"  margin: 35px 70px />
 </h2>
