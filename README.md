@@ -40,11 +40,17 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" alt="HTML"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="PYTHON"/></code>
+<code><img height="32" src="https://pbs.twimg.com/profile_images/1470866749063061508/jqG-zI6s_400x400.jpg" alt="No Code"/></code>
+<code><img height="32" src="https://i.ibb.co/DKPpFdH/C-Sharp.png" alt="C-Sharp"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="PHP"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" alt="Firebase"/></code>
+<code><img height="32" src="https://i.ibb.co/bKGwzrY/sql.png" alt="sql"/></code>
+<code><img height="32" src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"/></code>
 
 ---
 
 ### 🛠 Tools
-<code><img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL"/></code>
+  <code><img height="32" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY"/></code>
 <code><img height="32" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/illustrator.png" alt="illustrator"/></code>
@@ -57,11 +63,13 @@ O crescimento profissional é um dos meus objetivos dentro da empresa. Desenvolv
 <code><img height="32" src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" alt="YOLO"/></code>
 <code><img height="32" src="https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png" alt="ADALO"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" alt="FL Studio"/></code>
-
 <code><img height="32" src="https://www.gstatic.com/images/branding/product/1x/sites_2020q4_48dp.png" alt="Google Sites"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress"/></code>
 <code><img height="32" src="https://assets-global.website-files.com/5e6aa3e3f001fae105b8e1e7/6439cc0da352cc6eb6db7cab_ff_logo_small.png" alt="FlutterFlow"/></code>
-  
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/6033/6033716.png" alt="META"/></code>
+<code><img height="32" src="https://i.ibb.co/Lgs04Xf/image.png" alt="META"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/640px-Facebook_logo_%28square%29.png" alt="Instagram"/></code>
 ---
 
 ### 👻 Repositories
